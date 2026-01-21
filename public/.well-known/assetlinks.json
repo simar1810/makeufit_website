@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.aaharsutra",
+      "package_name": "com.wellnessz.muf",
       "sha256_cert_fingerprints": [
-        "52:42:B2:7E:21:24:11:20:03:73:29:1C:37:F1:1B:6C:DB:39:C9:A2:DC:66:32:8E:6A:33:59:38:E5:21:B7:64"
+        "F6:47:F8:B8:CA:FF:1B:18:37:AA:56:69:7A:33:44:31:9E:4C:28:9A:DD:A3:9E:90:A1:FB:0A:F5:B1:08:9A:C9"
       ]
     }
   }
